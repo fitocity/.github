@@ -1,2 +1,2 @@
 
-<img src="Fitocity.png" align="center" />
+<center><img src="Fitocity.png" /></center>
